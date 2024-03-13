@@ -1,5 +1,9 @@
 # Functions!
 
+Here's my mental model of a function:
+
+![Play-Doh Machine](./playdoh.jpg)
+
 ## Some Definitions of a Function:
 
 * Matt's: A function is a reusable tool **that you build for yourself** that will give you different outputs when you provide it with different inputs.
