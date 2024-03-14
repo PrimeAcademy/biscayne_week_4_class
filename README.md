@@ -51,7 +51,7 @@ function thePlayDohMachine(colorOne, colorTwo, shape) {
 Arguments are what we provide to our function when we call it.
 
 ```js
-// Here: 'blue', 'green', and 'star' are PARAMETERS.
+// Here: 'blue', 'green', and 'star' are ARGUMENTS.
 //       These are the INPUTS that we are providing to
 //       the function for this instance of calling it.
 thePlayDohMahine('blue', 'green', 'star');
